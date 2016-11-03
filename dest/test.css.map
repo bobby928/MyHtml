@@ -1,0 +1,1 @@
+{"version":3,"sources":["test.css"],"names":[],"mappings":"AAAA;IACI,qBAAc;IAAd,cAAc;IACd,oBAAoB;IACpB,0BAAkB;OAAlB,uBAAkB;QAAlB,sBAAkB;YAAlB,kBAAkB;IAClB,qDAAqD;CACxD","file":"test.css","sourcesContent":[".example {\r\n    display: flex;\r\n    transition: all .5s;\r\n    user-select: none;\r\n    background: linear-gradient(to bottom, white, black);\r\n}"]}
